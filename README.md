@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi L-XWen!
+I like java
